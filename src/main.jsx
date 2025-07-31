@@ -78,10 +78,10 @@ const App = () => {
             </div>
             <div className="slider">
               <div className="slide-track">
-                <div className="slide"><img src="./picture/1.jpg" alt="Ảnh 1"/></div>
-                <div className="slide"><img src="./picture/2.jpg" alt="Ảnh 1"/></div>
-                <div className="slide"><img src="./picture/3.jpg" alt="Ảnh 1"/></div>
-                <div className="slide"><img src="./picture/4.jpg" alt="Ảnh 1"/></div>
+                <div className="slide"><img src="./1.jpg" alt="Ảnh 1"/></div>
+                <div className="slide"><img src="./2.jpg" alt="Ảnh 1"/></div>
+                <div className="slide"><img src="./3.jpg" alt="Ảnh 1"/></div>
+                <div className="slide"><img src="./4.jpg" alt="Ảnh 1"/></div>
               </div>
             </div>
           </div>
